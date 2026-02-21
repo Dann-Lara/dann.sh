@@ -1,0 +1,31 @@
+{
+    "intro_label": "Casos_Enterprise",
+    "intro_title": "Intervenciones Arquitectónicas",
+    "intro_desc": "Sistemas empresariales donde se redujo el riesgo estructural mientras se incrementó la capacidad de decisión operativa.",
+    "intro_explore": "Explore_Case_Studies",
+
+    "challenge": "Contexto Estructural",
+    "solution": "Intervención Arquitectónica",
+    "result": "Impacto Operativo",
+
+    "elis_title": "Modernización Operativa de un Core Logístico Legacy",
+    "elis_desc": "Plataforma logística limitada por procesos manuales, reglas de negocio opacas y baja visibilidad en tiempo real para clientes enterprise.",
+    "elis_sol": "Modernización progresiva con capas de control estructuradas, integración GIS en tiempo real y desacoplamiento del frontend.",
+    "elis_res": "Transparencia operativa total y reducción de fragilidad sistémica en operaciones de alto volumen.",
+    "elis_status": "DATA_STREAM: ACTIVE",
+    "elis_log": "Log_Sync_01",
+
+    "bank_title": "Integración Controlada de IA Generativa en Entorno Bancario",
+    "bank_desc": "Procesamiento de facturación gubernamental de alto riesgo que requería extracción asistida por IA sin exponer datos regulados.",
+    "bank_sol": "Lambda de IA aislada con contratos explícitos de entrada/salida, capa de orquestación backend, validación de prompts y manejo controlado de fallos.",
+    "bank_res": "Adopción segura de IA, reducción de carga manual y minimización de exposición arquitectónica en entorno regulado.",
+    "bank_human_ai": "Human_Led_AI",
+    "bank_status": "DATA_STREAM: ACTIVE",
+    "bank_log": "Extraction_Gen_01",
+
+    "nativas_title": "Estabilización de Core y Desacoplamiento de Plataforma",
+    "nativas_desc": "Plataforma de tokenización de créditos de carbono que requería transición de framework sin comprometer la integridad transaccional.",
+    "nativas_sol": "Refactorización de componentes críticos, separación de responsabilidades y migración del core a arquitectura escalable.",
+    "nativas_res": "Continuidad productiva preservada mientras se habilitaba escalabilidad estructural futura.",
+    "nativas_status": "MINTING_IN_PROGRESS"
+}

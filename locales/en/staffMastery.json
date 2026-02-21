@@ -1,0 +1,11 @@
+{
+    "label": "Enterprise intervention model",
+    "p1_title": "Structural Risk Containment",
+    "p1_desc": "Identification and isolation of technical debt, dangerous coupling, and single points of failure in enterprise systems.",
+    "p2_title": "Frictionless Modernization",
+    "p2_desc": "Progressive legacy evolution while preserving operational continuity and production stability.",
+    "p3_title": "AI as Operational Infrastructure",
+    "p3_desc": "GenAI integration with structured validation, explicit contracts, and controlled human oversight.",
+    "quote": "True modernization is not rewriting systems—it is reducing structural risk while increasing the organization’s decision capacity."
+  }
+  

@@ -1,0 +1,27 @@
+{
+    "intro_title": "Sistemas de IA y Orquestación",
+    "intro_sub": "Diseño de infraestructuras de IA controladas que se integran a sistemas empresariales sin incrementar el riesgo estructural.",
+
+    "repo_title": "Blueprint de Infraestructura con IA",
+    "repo_tag": "Arquitectura Aplicada",
+    "repo_desc": "Diseño de plantillas de sistemas habilitados con IA, con contratos explícitos de entrada/salida, capas de validación y componentes de orquestación modular.",
+    "repo_metric": "Reducción de incertidumbre arquitectónica en adopción de IA.",
+    "repo_protocol": "Architecture_Protocol",
+    "repo_protocol_rev": "Rev_04",
+    "repo_efficiency": "Efficiency_Index",
+    "repo_biological": "Biological_Input",
+    "repo_synthetic": "Synthetic_Logic",
+
+    "flow_a_title": "Orquestación Segura de Flujos",
+    "flow_a_desc": "Diseño de flujos automatizados con checkpoints de validación, aislamiento de errores y exposición controlada de superficie IA.",
+    "flow_a_status": "n8n_workflow_active",
+
+    "flow_b_title": "Patrones de Gobernanza de IA",
+    "flow_b_desc": "Definición de versionado de prompts, modelos de manejo de fallos y marcos de supervisión humano-en-el-loop.",
+    "flow_b_status": "telegram_sync_active",
+
+    "stack_label": "AI_Infrastructure_Stack",
+    "system_init": "System.initialize (Automation_Protocol)",
+    "status_label": "Status: Optimizing_Workflows",
+    "engine_label": "Engine: GenAI_Orchestrator_v2"
+}

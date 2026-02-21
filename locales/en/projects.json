@@ -1,0 +1,31 @@
+{
+    "intro_label": "Enterprise_Case_Studies",
+    "intro_title": "Architectural Interventions",
+    "intro_desc": "Enterprise systems where structural risk was reduced while operational decision capacity increased.",
+    "intro_explore": "Explore_Case_Studies",
+
+    "challenge": "Structural Context",
+    "solution": "Architectural Intervention",
+    "result": "Operational Impact",
+
+    "elis_title": "Operational Modernization of a Legacy Logistics Core",
+    "elis_desc": "A logistics platform constrained by manual processes, opaque business rules, and limited real-time visibility across enterprise clients.",
+    "elis_sol": "Progressive modernization with structured control layers, real-time GIS integration, and decoupled frontend architecture.",
+    "elis_res": "Full operational transparency and reduced systemic fragility across high-volume enterprise operations.",
+    "elis_status": "DATA_STREAM: ACTIVE",
+    "elis_log": "Log_Sync_01",
+
+    "bank_title": "Controlled GenAI Integration in a Banking Environment",
+    "bank_desc": "High-risk government invoice processing requiring AI-assisted extraction without exposing private or regulated data.",
+    "bank_sol": "Isolated AI Lambda with explicit input/output contracts, backend orchestration layer, prompt validation, and controlled failure handling.",
+    "bank_res": "Secure AI adoption, reduced manual workload, and minimized architectural exposure in a regulated ecosystem.",
+    "bank_human_ai": "Human_Led_AI",
+    "bank_status": "DATA_STREAM: ACTIVE",
+    "bank_log": "Extraction_Gen_01",
+
+    "nativas_title": "Core Stabilization and Platform Decoupling",
+    "nativas_desc": "Tokenized carbon-credit platform requiring framework transition without compromising transactional integrity.",
+    "nativas_sol": "Refactoring of critical components, separation of concerns, and migration of the operational core to a scalable architecture.",
+    "nativas_res": "Preserved production continuity while enabling structural scalability for future expansion.",
+    "nativas_status": "MINTING_IN_PROGRESS"
+}
