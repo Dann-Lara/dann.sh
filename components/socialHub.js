@@ -8,10 +8,9 @@ export function SocialHub() {
             
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:flex lg:flex-wrap justify-center md:justify-start gap-4">
                 ${AppConfig.cv.map(cv => `
-                    <a href="${cv.path}" 
-                       download 
+                    <a href="${cv.path}" target="_blank" rel="noopener noreferrer"
                        class="group flex items-center gap-4 px-5 py-3 border border-slate-200 dark:border-slate-800 rounded-xl hover:border-sky-500/50 transition-all duration-300 bg-slate-50/30 dark:bg-slate-900/30 backdrop-blur-sm overflow-hidden relative"
-                       title="${cv.description}">
+                       title="${cv.name}">
                         
                         <i class="fa-solid fa-file-pdf text-xl text-red-500/80 group-hover:scale-110 transition-transform"></i>
                         

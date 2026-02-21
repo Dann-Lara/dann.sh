@@ -7,30 +7,32 @@ export const AppConfig = {
         email: 'dkubdannspc@gmail.com',
         emailDisplay: 'dkubdannspc@gmail.com'
     },
+    // CV: Google Drive direct download. Upload PDF → Right-click → Get link → Anyone with link.
+    // URL format: https://drive.google.com/file/d/FILE_ID/view — use the FILE_ID part only.
     cv: [
         {
             id: 'ai',
             name: 'CV AI INTEGRATED SYSTEMS ENGINEERING',
             nameShort: 'AI',
-            path: '/assets/cv/DANN_LARA_AI_INTEGRATED_SYSTEMS_ENGINEERING.pdf'
+            path: 'https://drive.google.com/uc?export=download&id=13ESJRnJoEjjCPE4MbgzpvOtlMb88Wd84'
         },
         {
             id: 'dev',
             name: 'CV ENTERPRISE SYSTEMS ENGINEER',
             nameShort: 'Dev',
-            path: '/assets/cv/DANN_LARA_ENTERPRISE_SYSTEMS_ENGINEER.pdf'
+            path: 'https://drive.google.com/uc?export=download&id=1DmuQxWGjp1Epg-xAos3mxUQqygHIcjvu'
         },
         {
             id: 'ai_es',
             name: 'CV AI INTEGRATED SYSTEMS ENGINEERING ES',
             nameShort: 'AI ES',
-            path: '/assets/cv/DANN_LARA_AI_INTEGRATED_SYSTEMS_ENGINEERING_ESPAÑOL.pdf'
+            path: 'https://drive.google.com/uc?export=download&id=1diEGBkEw1hRWGkk1amiwJCJqXm1TPy'
         },
         {
             id: 'dev_es',
             name: 'CV ENTERPRISE SYSTEMS ENGINEER ES',
             nameShort: 'Dev ES',
-            path: '/assets/cv/DANN_LARA_ENTERPRISE_SYSTEMS_ENGINEER_ESPAÑOL.pdf'
+            path: 'https://drive.google.com/uc?export=download&id=1qvg63p_eTrg_58TCas-YwlxNZMmLf9in'
         }
     ],
     social: [

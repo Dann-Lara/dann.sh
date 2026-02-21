@@ -62,7 +62,7 @@ const FooterConnect = () => `
                 <div class="flex flex-wrap gap-4">
                     ${AppConfig.cv.map(cv => `
                         <div class="relative group">
-                            <a href="${cv.path}" download title="${cv.name}"
+                            <a href="${cv.path}" target="_blank" rel="noopener noreferrer" title="${cv.name}"
                                class="flex items-center justify-center w-9 h-9 md:w-10 md:h-10 border border-slate-200 dark:border-white/10 rounded-lg text-slate-400 hover:text-red-500 hover:border-red-500/50 transition-all">
                                 <i class="fa-solid fa-file-pdf text-xs md:text-sm"></i>
                             </a>
