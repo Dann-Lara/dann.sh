@@ -1,5 +1,5 @@
 import { t } from '../../utils/i18n.js';
-import anime from 'https://cdn.skypack.dev/animejs@3.2.1';
+import anime from 'https://esm.sh/animejs@3.2.1?bundle';
 
 export function AiRepoArchitect() {
     const stack = ['Firebase Studio', 'OpenAI API', 'GenKit'];

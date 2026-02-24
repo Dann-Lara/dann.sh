@@ -3,7 +3,7 @@
 // Smooth section-based scroll (inspired by d2c-lifescience.com)
 // ============================================
 
-import anime from 'https://cdn.skypack.dev/animejs@3.2.1';
+import anime from 'https://esm.sh/animejs@3.2.1?bundle';
 import { BackgroundEngine } from './backgroundEngine.js';
 import { TransitionManager } from './transitionManager.js';
 

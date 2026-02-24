@@ -2,7 +2,7 @@
 // BACKGROUND ENGINE - Simple & Visible
 // ============================================
 
-import anime from 'https://cdn.skypack.dev/animejs@3.2.1';
+import anime from 'https://esm.sh/animejs@3.2.1?bundle';
 
 export const BackgroundEngine = {
     isPaused: false,
